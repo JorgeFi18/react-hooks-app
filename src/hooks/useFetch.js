@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 
+// custom hook
 export default function useFetch(url, options) {
     const [loading, setLoading] = useState(true);
     const [result, setResult] = useState(null);
