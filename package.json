@@ -8,8 +8,11 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.0.4",
     "node-sass": "^4.13.1",
+    "query-string": "^6.11.1",
+    "rc-pagination": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-player": "^1.15.3",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1"
   },
